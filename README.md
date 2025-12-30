@@ -91,6 +91,9 @@ Message sent: EURUSD=1.1034
 [Callback] messageCallback fired
 [Message] Received: EURUSD=1.1034
 
+### Solace Queue
+<img width="927" height="301" alt="image" src="https://github.com/user-attachments/assets/1b00bfe3-f475-4029-b4de-b5cacdaa5f59" />
+
 ### How It Works
 Subscriber
 Initializes Solace API
