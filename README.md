@@ -37,8 +37,6 @@ Linux or WSL recommended
 ### Build Instructions
 1. Set Solace library paths
 Example (adjust to your installation):
-
-bash
 export LD_LIBRARY_PATH=/usr/sw/solclient/lib:$LD_LIBRARY_PATH
 export CPATH=/usr/sw/solclient/include
 2. Compile subscriber
@@ -51,7 +49,6 @@ gclang++ subscriber.cpp -std=c++20 \
   -o subscriber
 
 3. Compile publisher
-bash
  clang++ publisher.cpp -std=c++20 \ 
   -I /Users/$USER/solace-c/include \
   -L /Users/$USER/solace-c/lib \
