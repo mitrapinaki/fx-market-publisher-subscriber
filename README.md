@@ -94,6 +94,10 @@ Message sent: EURUSD=1.1034
 ### Solace Queue
 <img width="927" height="301" alt="image" src="https://github.com/user-attachments/assets/1b00bfe3-f475-4029-b4de-b5cacdaa5f59" />
 
+### Solace Topic
+<img width="927" height="301" alt="image" src="https://github.com/user-attachments/assets/4534731b-75be-4b87-b91a-b0b5cc7b0d48" />
+
+
 ### How It Works
 Subscriber
 Initializes Solace API
